@@ -6,6 +6,8 @@ This project implements machine learning approaches for classifying forest healt
 
 The system classifies forest regions into four health categories: H (Healthy), HD (High Damage), LD (Low Damage), and other.
 
+![Alt text](assets/confusionmatrix.png)
+![Alt text](assets/classicrl.png)
 ## Architecture
 
 ### Data Pipeline
