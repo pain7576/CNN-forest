@@ -1,0 +1,5 @@
+.venv/
+.venv1/
+CNN_model_health_forest2/
+data/
+.idea/
