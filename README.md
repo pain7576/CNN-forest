@@ -112,4 +112,4 @@ data/
 - **PCA Implementation**: Manual eigendecomposition is used for educational purposes rather than `sklearn.decomposition.PCA`.
 
 ## Co-Authors
-- Yogesh Rajesh [Link Text](https://github.com/Yogesh7030) classical ML
+- [Yogesh Rajesh](https://github.com/Yogesh7030) - Classical ML
