@@ -110,3 +110,6 @@ data/
 - **Reproducibility**: Random seeds are set in most scripts (42 for Decision Tree/Linear SVM, 0 for K-Means) but not RBF SVM.
 
 - **PCA Implementation**: Manual eigendecomposition is used for educational purposes rather than `sklearn.decomposition.PCA`.
+
+## Co-Authors
+- Yogesh Rajesh [Link Text](https://github.com/Yogesh7030) classical ML
